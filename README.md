@@ -1,1 +1,1 @@
-# AI---Resume-ATS-Calculator
+# AI-Resume-ATS-Calculator
